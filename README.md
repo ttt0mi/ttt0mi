@@ -9,9 +9,9 @@
 
 - 💬 I’m currently working with Python, Java, Javascript, Golang and Flutter.
 - ⚡️ I currently work in Open Source Projects; System Design & Architectures; and Mobile/Web Development Circles
-- 🧠 I’m open to learning about Data Science, Analysis and AI/ML Pipelines.
+- 🧠 I’m currently learning about Data Science, Data Analysis and AI/ML Pipelines.
 - 👥 I’m looking to collaborate on new products and research.
-- 🙎🏾‍♂️ Fun fact: I don't do this because I enjoy it, I do this because i'm good at it.
+- 🙎🏾‍♂️ Fun fact: I don't enjoy this, I do it because I can.
 
 
 ##  Links
