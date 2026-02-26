@@ -12,7 +12,7 @@
 
 ##  Links
 
-<p align="center">
+<p align="center" style="padding: 10px;">
   <a href="mailto:tonmide96@gmail.com">
     <img width="96" height="96" src="https://img.icons8.com/color/96/gmail-new.png" alt="gmail-new"/>
   </a>
