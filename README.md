@@ -7,7 +7,7 @@
 **Here's a quick summary about tomi**:
 
 
-- 💬 I’m currently working with Python, Java, Javascript, Golang and Flutter.
+- 💬 I’m currently working with Python, Java, and Javascript.
 - ⚡️ I currently work in Open Source Projects; System Design & Architectures; and Mobile/Web Development Circles
 - 🧠 I’m currently learning about Data Science, Data Analysis and AI/ML Pipelines.
 - 👥 I’m looking to collaborate on new products and research.
