@@ -7,11 +7,11 @@
 **Here's a quick summary about tomi**:
 
 
-- 💬 I’m currently working with Python, Java, and Javascript.
-- ⚡️ I currently work in Open Source Projects; System Design & Architectures; and Mobile/Web Development Circles
+- 💬 I’m currently working with Python, Java, Javascript, Typescript.
+- ⚡️ I currently work in Open Source Projects; System Design & Architectures; et cetera.
 - 🧠 I’m currently learning about Data Science, Data Analysis and AI/ML Pipelines.
 - 👥 I’m looking to collaborate on new products and research.
-- 🙎🏾‍♂️ Fun fact: I don't enjoy this, I do it because I can.
+- 🙎🏾‍♂️ "Fun" fact: I don't do this because I enjoy it, I do it because I can.
 
 
 ##  Links
